@@ -23,4 +23,7 @@ dependencies {
     compile fileTree(dir: 'libs', include: ['*.jar'])
     testCompile 'junit:junit:4.12'
     compile 'com.android.support:appcompat-v7:24.2.0'
+    compile 'com.google.android.gms:play-services:9.4.0'
+    compile 'com.google.maps.android:android-maps-utils:0.3.4'
+    compile 'com.mashape.unirest:unirest-java:1.4.9'
 }
