@@ -27,7 +27,7 @@ import com.example.tarunchhabra.utils.Constants;
 import com.google.android.gms.common.ConnectionResult;
 import com.google.android.gms.common.api.GoogleApiClient;
 import com.google.android.gms.location.LocationServices;
-import com.google.android.gms.vision.text.Text;
+
 
 import java.util.Random;
 
